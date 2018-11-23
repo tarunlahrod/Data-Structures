@@ -1,4 +1,4 @@
-# Data-Structures
+### Data-Structures
 Data structures 
 
 includes:
@@ -7,4 +7,4 @@ includes:
       =>queue
       =>doubly linked list
   ->tree
-    =>binary tree
+    =>binary search tree
