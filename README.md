@@ -1,10 +1,10 @@
 ### Data-Structures
 Data structures 
 
-includes:
-  ->linked lists
-      =>stack
-      =>queue
-      =>doubly linked list
-  ->tree
-    =>binary search tree
+# Includes:
+  Linked lists
+      * stack
+      * queue
+      * doubly linked list
+  Tree
+      * binary search tree
