@@ -1,6 +1,6 @@
 # Data-Structures
 ## This repo contains the C++ codes of basic **Data structures**
-###### The data structures contained in this are-
+#### The data structures contained in this are-
   1. Linked lists
       * Stack 
       * Queue 
