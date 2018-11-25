@@ -3,10 +3,8 @@
 
 #### The data structures contained in this are-
   * Linked lists
-      * Stack
-      * Doubly linked list
-  * Trees
-      * Binary search tree
+  * Stack
+  * Binary search tree
       
 #### And related operations are-
   *  Reversing a linked list 
