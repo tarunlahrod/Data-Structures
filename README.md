@@ -4,7 +4,7 @@
 #### The data structures contained in this are-
   * Linked lists
   * Stack
-  * Binary search tree
+  * Binary search trees
       
 #### And related operations are-
   *  Reversing a linked list 
