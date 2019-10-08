@@ -9,7 +9,6 @@ struct node 					// a BST node structure
 	node *left, *right;			//links to left subtree and right subtree
 };
 
-
 /*
 function name: getNewNode()
 input: data to be entered in the new node.
@@ -23,7 +22,6 @@ node* getNewNode(int data)
 	newNode -> left = newNode -> right = NULL;
 	return newNode;
 }
-
 
 /*
 function name: insert()
@@ -45,7 +43,6 @@ node* insert(node *root, int data)
 
 	return root;
 }
-
 
 /*
 function name: search()
