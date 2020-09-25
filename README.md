@@ -1,5 +1,5 @@
 # Data-Structures
-## This repo contains the C++ codes of basic **Data structures** and related operations.
+## This repo contains C++ codes of basic **Data structures** and related operations.
 
 #### The data structures contained in this are-
   * Linked lists
