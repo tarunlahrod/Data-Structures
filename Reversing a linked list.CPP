@@ -173,10 +173,11 @@ void main()
 
 head = NULL;
 
-insertAtBeginning(2); cout<<endl; forwardPrint(head);
+insertAtBeginning(9); cout<<endl; forwardPrint(head);
 insertAtBeginning(5); cout<<endl; forwardPrint(head);
 insertAtBeginning(-1); cout<<endl; forwardPrint(head);
 insertAtBeginning(7); cout<<endl; forwardPrint(head);
+insertAtBeginning(2); cout<<endl; forwardPrint(head);
 insertAtEnd(8); cout<<endl; forwardPrint(head);
 
 cout<<"\nReversing the linked list - Iterative\n";
@@ -193,8 +194,8 @@ Delete(-1);
 cout<<"\n\nAfter deleting -1 ...\n";
 forwardPrint(head);
 
-Delete( 2);
-cout<<"\nAfter deleting 2 ...\n";
+Delete( 9);
+cout<<"\nAfter deleting 9 ...\n";
 forwardPrint(head);
 
 Delete(8);
