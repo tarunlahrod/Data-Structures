@@ -76,8 +76,8 @@ int main()
 	root = insert(root, 50);
 	root = insert(root, 40);
 	root = insert(root, 35);
-	root = insert(root, 23);
 	root = insert(root, 12);
+	
 
 	int searchMe = 15; // searchMe is the value we want to search in the tree.
 
