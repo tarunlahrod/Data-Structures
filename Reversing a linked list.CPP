@@ -177,6 +177,7 @@ insertAtBeginning(9); cout<<endl; forwardPrint(head);
 insertAtBeginning(5); cout<<endl; forwardPrint(head);
 insertAtBeginning(-1); cout<<endl; forwardPrint(head);
 insertAtBeginning(7); cout<<endl; forwardPrint(head);
+insertAtBeginning(2); cout<<endl; forwardPrint(head);
 insertAtEnd(8); cout<<endl; forwardPrint(head);
 
 cout<<"\nReversing the linked list - Iterative\n";
